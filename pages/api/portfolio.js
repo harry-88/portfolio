@@ -3,7 +3,7 @@ const portfolio = [
         id: 0,
         projectName: "ScoreGPT",
         url: "",
-        image: "projects/jmm.png",
+        image: "",
         projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
         technologiesUsed: [
             {
